@@ -1,0 +1,8 @@
+{
+    "emmet.preferences": {
+
+    
+    },
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.includeLanguages": {"*.erb": "html", "ruby": "html"}
+}
